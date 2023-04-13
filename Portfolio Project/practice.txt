@@ -1,9 +1,0 @@
-<!doctype html>
-<html>
-<head>
-<title>HTML Practice</title>
-<h1>This is me practicing HTML, hopefully correctly</h1>
-<!--Kimora Serrant, CTI110-0003-->
-<p> If I could without coppying and pasting, I'd put the bee movie script right here because it's funny, but that will take a lot of time to type by hand so I wont, I dont think this code will work honestly but I'll figure it out</p>
-<!--This file is my own work and I typed everything, Kimora Serrant-->
-<head>
